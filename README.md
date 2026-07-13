@@ -27,6 +27,34 @@ Each concept includes:
 - How it connects to other technology
 - Practice exercise
 - Reflection question
+- 
+## Resource Templates
+
+This repository also includes practical templates for different audiences.
+
+### Student Resources
+
+Templates to help learners study, review, reflect, and explain each concept clearly.
+
+### Career Changer Resources
+
+Templates to help learners turn technology concepts into interview answers, resume language, and LinkedIn learning posts.
+
+### Recruiter Resources
+
+Templates to help recruiters and hiring managers evaluate whether candidates understand technology concepts beyond memorized definitions.
+
+## Who Can Use This Repository
+
+This resource is designed for:
+
+- Students building technology confidence
+- Career changers preparing for IT roles
+- Help desk and entry-level technology professionals
+- Recruiters screening for technology fluency
+- Hiring managers evaluating communication and applied understanding
+- Educators creating technology learning activities
+- Consultants and leaders who need to explain technology clearly
 
 ## Current Lessons
 
