@@ -73,6 +73,30 @@ Templates to help learners turn technology concepts into interview answers, resu
 
 Templates to help recruiters and hiring managers evaluate whether candidates understand technology concepts beyond memorized definitions.
 
+### Consultant Resources
+
+Discovery, assessment, risk, recommendation, and executive briefing templates to help consultants turn technology concepts into advisory conversations.
+
+Consultants can use these templates to:
+
+- Ask better client discovery questions
+- Assess technology maturity
+- Identify operational, security, and governance risks
+- Convert findings into recommendations
+- Brief executives in plain business language
+
+### Executive Resources
+
+Executive summary, business risk, governance, decision-question, and board-level explanation templates to help leaders understand why technology concepts matter to operations, security, cost, resilience, and AI-era readiness.
+
+Executives and leaders can use these templates to:
+
+- Understand technical concepts without unnecessary jargon
+- Ask better decision questions
+- Connect technology to business risk
+- Improve governance conversations
+- Evaluate operational and security impact
+
 ## Who Can Use This Repository
 
 This resource is designed for:
@@ -84,7 +108,9 @@ This resource is designed for:
 - Hiring managers evaluating communication and applied understanding
 - Educators creating technology learning activities
 - Consultants and leaders who need to explain technology clearly
-
+- Consultants turning technology concepts into client discovery and assessment conversations
+- Executives and leaders who need business impact, risk, and governance framing
+  
 ## Current Lessons
 
 | Day | Concept |
