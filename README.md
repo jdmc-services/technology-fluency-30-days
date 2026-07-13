@@ -97,6 +97,19 @@ Executives and leaders can use these templates to:
 - Improve governance conversations
 - Evaluate operational and security impact
 
+### Worksheets
+
+Completed worksheets for Days 1-10 help learners move from reading definitions to practicing real understanding.
+
+Each worksheet connects the concept to:
+
+- AI
+- Cybersecurity
+- Infrastructure
+- Business impact
+- Interview readiness
+- Leadership communication
+
 ## Who Can Use This Repository
 
 This resource is designed for:
